@@ -1,3 +1,3 @@
-(Web Ödev 4 - Doğukan Önder)
+Ödev/4
 
-npm install ile gerekli modüller yüklendikten sonra npm start ile veritabanına bağlantı sağlanılabilir.
+-Mekanbul, mongoDB
